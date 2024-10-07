@@ -1,3 +1,10 @@
+add a new class
+add a new xml file
+delete program.cs
+
+
+
+
 Xml file: 
 <?xml version="1.0" encoding="utf-8" ?>
 <Products>
